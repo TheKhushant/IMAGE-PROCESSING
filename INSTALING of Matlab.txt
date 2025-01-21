@@ -6,3 +6,22 @@ b = 2
 (in right hadn workspace we can see it)
 c = a + b
 (c becomes 3)
+
+
+use to get cube of all matrix elements
+a.^3 
+
+concanitation of array horizontally (, = horizontally increase, & ';' for vertically incresing)
+A = [a,a]   = here 'A' is concinated array and 'a' is original array
+
+to enlarge vertically:
+B = [a; a]
+___________________________________________________
+      MAGIC = (redimate / inbuilt function)
+
+A*magic(4)
+this is automacally create a 4 * 4 matrix
+
+A(4,2)
+we can retrive specific element
+
