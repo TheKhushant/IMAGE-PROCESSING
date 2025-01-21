@@ -1,0 +1,8 @@
+open -> mathlab -> tutorials -> desktop basics >
+
+type in command window 
+a = 1 (enter)
+b = 2
+(in right hadn workspace we can see it)
+c = a + b
+(c becomes 3)
